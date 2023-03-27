@@ -4,7 +4,7 @@
 </p>
 
 # Matlab
-----
+
 Este repositorio contiene una colección de ejercicios matemáticos resueltos en Matlab. Aquí encontrarás una variedad de temas, que incluyen:
 
 - Polinomios
